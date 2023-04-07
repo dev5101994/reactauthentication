@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "admin",
+      "password": "1234",
+      "email": "admin@gmail.com",
+      "phone": "1111111111",
+      "country": "india",
+      "address": "aaaaaaaaaaaa",
+      "gender": "male"
+    }
+  ]
+}
